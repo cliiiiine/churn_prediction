@@ -33,7 +33,6 @@ We prioritized **recall** over precision to capture as many potential churners a
 
 - **Recall:** 0.94
 - **Precision:** 0.41
-- **Accuracy:** [Insert if desired]
 - Threshold adjusted to 0.1 to improve recall
 
 ## 📈 Insights & Strategy
@@ -54,9 +53,9 @@ While the model had moderate precision, it effectively captured most churners �
 
 ## 🙋🏽‍♀️ About Me
 
-Created by **DeAndra Robinson**, Data Analyst transitioning into Data Science. Passionate about building models that drive strategic decisions in marketing, compliance, and customer retention.
+Created by **Keith Robinson**, Data Analyst transitioning into Data Science. Passionate about building models that drive strategic decisions in marketing, compliance, and customer retention.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/keithcr/).
 
 ---
 
